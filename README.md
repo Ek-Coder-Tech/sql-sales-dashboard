@@ -51,12 +51,12 @@ pip install -r requirements.txt
 python app.py
 
 
-💾 Database Information
+## 💾 Database Information
 
 Ensure that sales.db (included in the repo) is placed in the root folder. This file contains the sample sales data used to populate the dashboard.
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 sql-sales-dashboard/
 │
@@ -67,16 +67,12 @@ sql-sales-dashboard/
 └── README.md             # Project documentation
 
 
-✅ Use Case
+## ✅ Use Case
 
 This dashboard simulates a real-world sales report tool, demonstrating skills in:
-
 Data filtering and transformation
-
 Relational database integration
-
 Business data visualization
-
 Responsive and interactive UI with Dash
 
 
@@ -87,12 +83,12 @@ Python Developer & Web Automation Freelancer
 [View My GitHub Projects](https://github.com/Ek-Coder-Tech)
 
 
-📢 License
+## 📢 License
 
 This project is open for learning, practice, and demonstration purposes. Feel free to use or adapt it for your portfolio or freelance showcase.
 
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 Built as part of a hands-on learning path to demonstrate data handling, visualization, and dashboard creation using Python.
 
