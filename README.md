@@ -17,7 +17,7 @@ This is a simple yet powerful **Sales Dashboard** built using **Dash and Plotly*
 ## 🖼️ Screenshots
 
 ### Filters + Summary Table  
-![Filters and Table](dashboard-filters-summary.png)
+![Filters and Table](dashboard-filters-summary.PNG)
 
 ### Interactive Bar Chart  
 ![Bar Chart](dashboard-bar-chart.png)
