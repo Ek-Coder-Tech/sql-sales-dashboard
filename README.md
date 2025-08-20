@@ -6,11 +6,11 @@ This is a simple yet powerful **Sales Dashboard** built using **Dash and Plotly*
 
 ## 🔍 Features
 
-- ✅ Connects to a local **SQLite database** (`sales.db`)
-- ✅ Real-time **summary table** of total sales and transaction count by region
-- ✅ Dynamic filtering by **region** and **product**
-- ✅ Interactive **bar chart** for sales breakdown
-- ✅ Built using **Dash**, **Plotly**, **Pandas**, and **Dash DataTable**
+✅ Connects to a local **SQLite database** (`sales.db`)
+✅ Real-time **summary table** of total sales and transaction count by region
+✅ Dynamic filtering by **region** and **product**
+✅ Interactive **bar chart** for sales breakdown
+✅ Built using **Dash**, **Plotly**, **Pandas**, and **Dash DataTable**
 
 ---
 
@@ -39,22 +39,21 @@ This is a simple yet powerful **Sales Dashboard** built using **Dash and Plotly*
 1. Clone the repository:
    git clone https://github.com/your-username/sql-sales-dashboard.git
    cd sql-sales-dashboard
-
 2. Create a Virtual Environment (Optional but Recommended)
 python -m venv venv
 source venv/bin/activate       # On Windows: venv\Scripts\activate
-
 3. Install Dependencies
 pip install -r requirements.txt
-
 4. Run the App
 python app.py
 
+---
 
 ## 💾 Database Information
 
 Ensure that sales.db (included in the repo) is placed in the root folder. This file contains the sample sales data used to populate the dashboard.
 
+---
 
 ## 📁 Project Structure
 
@@ -66,15 +65,17 @@ sql-sales-dashboard/
 ├── requirements.txt      # Python dependencies
 └── README.md             # Project documentation
 
+---
 
 ## ✅ Use Case
 
-This dashboard simulates a real-world sales report tool, demonstrating skills in:
-Data filtering and transformation
-Relational database integration
-Business data visualization
-Responsive and interactive UI with Dash
+- This dashboard simulates a real-world sales report tool, demonstrating skills in:
+- Data filtering and transformation
+- Relational database integration
+- Business data visualization
+- Responsive and interactive UI with Dash
 
+---
 
 ## 👤 Author
 
@@ -82,16 +83,19 @@ Responsive and interactive UI with Dash
 Python Developer & Web Automation Freelancer  
 [View My GitHub Projects](https://github.com/Ek-Coder-Tech)
 
+---
 
 ## 📢 License
 
 This project is open for learning, practice, and demonstration purposes. Feel free to use or adapt it for your portfolio or freelance showcase.
 
+---
 
 ## 🙌 Acknowledgments
 
 Built as part of a hands-on learning path to demonstrate data handling, visualization, and dashboard creation using Python.
 
+---
 
 ## 📬 Contact
 
